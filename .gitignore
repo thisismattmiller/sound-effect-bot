@@ -1,0 +1,4 @@
+.DS_Store
+waveform_data*
+lambda/deploy/lambda_function.py
+lambda_function.py
